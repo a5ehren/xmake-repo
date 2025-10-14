@@ -10,6 +10,8 @@ package("eastl")
     add_versions("3.17.06", "9ebeef26cdf091877ee348450d2711cd0bb60ae435309126c0adf8fec9a01ea5")
     add_versions("3.18.00", "a3c5b970684be02e81fb16fbf92ed2584e055898704fde87c72d0331afdea12b")
     add_versions("3.21.12", "2a4d77e5eda23ec52fea8b22abbf2ea8002f38396d2a3beddda3ff2e17f7db2e")
+    add_versions("3.21.23", "7fadbf0da01e6f6e0e7038b1b34343a069b8fc51")
+    add_versions("3.27.00", "9d2e8a090bceae2bb658bc45c3d4ee2d796cdf48")
 
     add_deps("cmake")
     add_deps("eabase")
